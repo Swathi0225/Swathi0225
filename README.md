@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swathi Maheswaran</h1>
 <h3 align="center">Final Year Computer Science & Engineering Student | Full Stack Developer | IoT Enthusiast | Aspiring Software Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swathi0225&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
