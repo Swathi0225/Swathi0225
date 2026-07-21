@@ -88,28 +88,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Swathi0225&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Swathi0225&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swathi0225&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Swathi0225&theme=tokyo-night)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Swathi0225&theme=tokyonight&no-frame=true&row=1&column=7)
-
----
-
 # 💻 Coding Profiles
 
 <p align="left">
