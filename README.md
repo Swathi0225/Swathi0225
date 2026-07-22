@@ -12,7 +12,6 @@
 
 🌱 Currently learning
 - Java
-- Data Structures & Algorithms
 - SQL
 - Backend Development
 - System Design
@@ -61,7 +60,6 @@
 - NodeMCU
 - DHT11
 - Soil Moisture Sensor
-- MicroPython
 
 ---
 
