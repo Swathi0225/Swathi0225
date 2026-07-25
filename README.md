@@ -12,7 +12,6 @@
 
 🌱 Currently learning
 - Java
-- SQL
 - Backend Development
 - System Design
 
