@@ -117,8 +117,6 @@ Tamil Nadu, India
 
 ✅ Master Java
 
-✅ Solve 300+ DSA Problems
-
 ✅ Build 15+ Full Stack Projects
 
 ✅ Contribute to Open Source
