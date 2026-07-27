@@ -72,8 +72,6 @@
 
 🌐 Personal Portfolio Website
 
-🎓 Student Management System (Coming Soon)
-
 🧮 Java Calculator (Coming Soon)
 
 📚 Java Programs Repository (Coming Soon)
@@ -118,8 +116,6 @@ Tamil Nadu, India
 ✅ Master Java
 
 ✅ Build 15+ Full Stack Projects
-
-✅ Contribute to Open Source
 
 ✅ Crack a Software Development Internship
 
