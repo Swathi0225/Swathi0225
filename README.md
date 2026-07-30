@@ -110,6 +110,9 @@ swathimahes2005@gmail.com
 
 Tamil Nadu, India
 
+Linkedin
+
+https://www.linkedin.com/in/swathi-maheswaran-b11524381/
 ---
 
 # 🌟 Current Goals
