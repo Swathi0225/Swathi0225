@@ -59,6 +59,7 @@
 - NodeMCU
 - DHT11
 - Soil Moisture Sensor
+- Relay module
 
 ---
 
